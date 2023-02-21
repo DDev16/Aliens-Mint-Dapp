@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5d1a74EB382326E3C26322994F905a82e2A33C47",
+  "SCAN_LINK": "https://flare-explorer.flare.network/token/0x5d1a74EB382326E3C26322994F905a82e2A33C47",
+  "NETWORK": {
+    "NAME": "Flare",
+    "SYMBOL": "FLR",
+    "ID": 14
+  },
+  "NFT_NAME": "Marvelous Monsters",
+  "SYMBOL": "MS",
+  "MAX_SUPPLY": 2243,
+  "SGB_COST": 2000,
+  "DISPLAY_COST": 2000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Sparkles",
+  "MARKETPLACE_LINK": "https://sparklesnft.com/collection/marvelous-monsters/",
+  "SHOW_BACKGROUND": true
+}

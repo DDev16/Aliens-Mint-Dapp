@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x81d80d8a8ccbb761b74be2d6f969b16a498e4c73",
+  "SCAN_LINK": "https://songbird-explorer.flare.network/token/0x81D80d8A8ccBB761b74be2D6F969b16a498e4c73",
+  "NETWORK": {
+    "NAME": "Songbird",
+    "SYMBOL": "SGB",
+    "ID": 19
+  },
+  "NFT_NAME": "Astro Aliens",
+  "SYMBOL": "AA",
+  "MAX_SUPPLY": 1100,
+  "SGB_COST": 1500,
+  "DISPLAY_COST": 1500,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Sparkles",
+  "MARKETPLACE_LINK": "https://sparklesnft.com/collection/Astro-/",
+  "SHOW_BACKGROUND": true
+}
